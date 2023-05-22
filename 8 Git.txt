@@ -1,0 +1,3 @@
+https://proglib.io/p/git-for-half-an-hour
+git config --global http.proxy http://dune%5CЛогин:Пароль@192.168.40.21:8080
+git config --global http.sslVerify false
